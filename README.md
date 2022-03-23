@@ -1,5 +1,5 @@
-roissycdg.github.io
 # Personal Portfolio Website
+Short bio
 ---
 
 # Project 1 : Framingham Heart Study   
@@ -20,4 +20,5 @@ roissycdg.github.io
 # Project   : Asthma related events prediction
 ...  
 # Project 4 : WiDS Datathon **Phase 1**
-# Project 5 : WiDS Datathon **Phase 2** - *ongoing*
+# Project 5 : WiDS Datathon **Phase 2** - *ongoing*  
+roissycdg.github.io
