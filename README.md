@@ -7,8 +7,8 @@ Short bio
 - The dataset
 - Why this is generally important
 - Models used
-  -Why I choose these models
-  -Accuracy, recall, precision etc
+  - Why I choose these models
+  - Accuracy, recall, precision etc
 - Conclusion
 - What I would do in 3 months
 - What I would do in 1 year
